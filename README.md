@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OhioSempai
+- 👋 Hi, I’m @SmartMen3000
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on coding
